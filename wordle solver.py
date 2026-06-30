@@ -65,7 +65,5 @@ while True:
     print("\nPossible words:")
     print(valid_words)
 
-    if (len(words) >= 5 or quit):
+    if (len(words) >= 6 or quit):
         break
-
-print("\nPossible words:")
